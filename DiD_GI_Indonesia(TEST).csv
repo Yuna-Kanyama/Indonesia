@@ -1,421 +1,421 @@
-Privinces,Year,HDI,GI
-Bali,2007,0.681,0
-Bali,2008,0.683,1
-Bali,2009,0.692,1
-Bali,2010,0.698,1
-Bali,2011,0.704,1
-Bali,2012,0.709,1
-Bali,2013,0.713,1
-Bali,2014,0.716,1
-Bali,2015,0.723,1
-Bali,2016,0.725,1
-Bali,2017,0.73,1
-Bali,2018,0.736,1
-Bali,2019,0.742,1
-Bali,2020,0.735,1
-Bangka Belitung,2007,0.656,0
-Bangka Belitung,2008,0.658,0
-Bangka Belitung,2009,0.668,0
-Bangka Belitung,2010,0.674,0
-Bangka Belitung,2011,0.68,0
-Bangka Belitung,2012,0.686,0
-Bangka Belitung,2013,0.687,0
-Bangka Belitung,2014,0.686,0
-Bangka Belitung,2015,0.691,0
-Bangka Belitung,2016,0.689,0
-Bangka Belitung,2017,0.69,0
-Bangka Belitung,2018,0.696,0
-Bangka Belitung,2019,0.702,0
-Bangka Belitung,2020,0.695,0
-Banten,2007,0.637,0
-Banten,2008,0.643,0
-Banten,2009,0.656,0
-Banten,2010,0.665,0
-Banten,2011,0.675,0
-Banten,2012,0.684,0
-Banten,2013,0.688,0
-Banten,2014,0.691,0
-Banten,2015,0.698,0
-Banten,2016,0.7,0
-Banten,2017,0.705,0
-Banten,2018,0.71,0
-Banten,2019,0.717,0
-Banten,2020,0.71,0
-Bengkulu,2007,0.635,0
-Bengkulu,2008,0.642,0
-Bengkulu,2009,0.656,0
-Bengkulu,2010,0.666,0
-Bengkulu,2011,0.676,0
-Bengkulu,2012,0.686,0
-Bengkulu,2013,0.691,0
-Bengkulu,2014,0.696,0
-Bengkulu,2015,0.705,0
-Bengkulu,2016,0.709,0
-Bengkulu,2017,0.715,0
-Bengkulu,2018,0.721,1
-Bengkulu,2019,0.728,1
-Bengkulu,2020,0.72,1
-Central Java,2007,0.638,0
-Central Java,2008,0.641,0
-Central Java,2009,0.651,0
-Central Java,2010,0.657,0
-Central Java,2011,0.663,0
-Central Java,2012,0.67,0
-Central Java,2013,0.676,0
-Central Java,2014,0.681,1
-Central Java,2015,0.692,1
-Central Java,2016,0.697,1
-Central Java,2017,0.704,1
-Central Java,2018,0.709,1
-Central Java,2019,0.716,1
-Central Java,2020,0.709,1
-Central Kalimantan,2007,0.654,0
-Central Kalimantan,2008,0.651,0
-Central Kalimantan,2009,0.656,0
-Central Kalimantan,2010,0.657,0
-Central Kalimantan,2011,0.657,0
-Central Kalimantan,2012,0.658,0
-Central Kalimantan,2013,0.663,0
-Central Kalimantan,2014,0.666,0
-Central Kalimantan,2015,0.674,0
-Central Kalimantan,2016,0.676,0
-Central Kalimantan,2017,0.681,0
-Central Kalimantan,2018,0.687,0
-Central Kalimantan,2019,0.694,0
-Central Kalimantan,2020,0.687,0
-Central Sulawesi,2007,0.62,0
-Central Sulawesi,2008,0.619,0
-Central Sulawesi,2009,0.626,0
-Central Sulawesi,2010,0.629,0
-Central Sulawesi,2011,0.631,0
-Central Sulawesi,2012,0.634,0
-Central Sulawesi,2013,0.644,0
-Central Sulawesi,2014,0.653,0
-Central Sulawesi,2015,0.666,0
-Central Sulawesi,2016,0.674,0
-Central Sulawesi,2017,0.684,0
-Central Sulawesi,2018,0.69,0
-Central Sulawesi,2019,0.697,0
-Central Sulawesi,2020,0.69,0
-DI Aceh,2007,0.658,0
-DI Aceh,2008,0.659,0
-DI Aceh,2009,0.668,0
-DI Aceh,2010,0.673,0
-DI Aceh,2011,0.678,0
-DI Aceh,2012,0.683,0
-DI Aceh,2013,0.688,0
-DI Aceh,2014,0.691,0
-DI Aceh,2015,0.7,0
-DI Aceh,2016,0.703,0
-DI Aceh,2017,0.708,0
-DI Aceh,2018,0.714,0
-DI Aceh,2019,0.721,0
-DI Aceh,2020,0.714,0
-DI Yogyakarta,2007,0.713,0
-DI Yogyakarta,2008,0.713,0
-DI Yogyakarta,2009,0.72,0
-DI Yogyakarta,2010,0.723,0
-DI Yogyakarta,2011,0.726,0
-DI Yogyakarta,2012,0.73,0
-DI Yogyakarta,2013,0.734,0
-DI Yogyakarta,2014,0.738,0
-DI Yogyakarta,2015,0.747,0
-DI Yogyakarta,2016,0.75,0
-DI Yogyakarta,2017,0.755,0
-DI Yogyakarta,2018,0.761,0
-DI Yogyakarta,2019,0.768,0
-DI Yogyakarta,2020,0.76,0
-DKI Jakarta,2007,0.74,0
-DKI Jakarta,2008,0.738,0
-DKI Jakarta,2009,0.744,0
-DKI Jakarta,2010,0.746,0
-DKI Jakarta,2011,0.748,0
-DKI Jakarta,2012,0.75,0
-DKI Jakarta,2013,0.752,0
-DKI Jakarta,2014,0.752,0
-DKI Jakarta,2015,0.756,0
-DKI Jakarta,2016,0.756,0
-DKI Jakarta,2017,0.758,0
-DKI Jakarta,2018,0.764,0
-DKI Jakarta,2019,0.771,0
-DKI Jakarta,2020,0.764,0
-East Java,2007,0.628,0
-East Java,2008,0.634,0
-East Java,2009,0.647,0
-East Java,2010,0.656,0
-East Java,2011,0.666,0
-East Java,2012,0.676,0
-East Java,2013,0.681,1
-East Java,2014,0.684,1
-East Java,2015,0.693,1
-East Java,2016,0.697,1
-East Java,2017,0.702,1
-East Java,2018,0.708,1
-East Java,2019,0.715,1
-East Java,2020,0.707,1
-East Kalimantan,2007,0.696,0
-East Kalimantan,2008,0.696,0
-East Kalimantan,2009,0.704,0
-East Kalimantan,2010,0.708,0
-East Kalimantan,2011,0.713,0
-East Kalimantan,2012,0.717,0
-East Kalimantan,2013,0.718,0
-East Kalimantan,2014,0.718,0
-East Kalimantan,2015,0.723,0
-East Kalimantan,2016,0.723,0
-East Kalimantan,2017,0.725,0
-East Kalimantan,2018,0.731,0
-East Kalimantan,2019,0.738,0
-East Kalimantan,2020,0.731,0
-East Nusa Tenggara,2007,0.578,0
-East Nusa Tenggara,2008,0.584,0
-East Nusa Tenggara,2009,0.596,0
-East Nusa Tenggara,2010,0.605,0
-East Nusa Tenggara,2011,0.614,0
-East Nusa Tenggara,2012,0.624,1
-East Nusa Tenggara,2013,0.628,1
-East Nusa Tenggara,2014,0.632,1
-East Nusa Tenggara,2015,0.64,1
-East Nusa Tenggara,2016,0.643,1
-East Nusa Tenggara,2017,0.648,1
-East Nusa Tenggara,2018,0.654,1
-East Nusa Tenggara,2019,0.66,1
-East Nusa Tenggara,2020,0.653,1
-East Timor,2007,,0
-East Timor,2008,,0
-East Timor,2009,,0
-East Timor,2010,,0
-East Timor,2011,,0
-East Timor,2012,,0
-East Timor,2013,,0
-East Timor,2014,,0
-East Timor,2015,,0
-East Timor,2016,,0
-East Timor,2017,,0
-East Timor,2018,,0
-East Timor,2019,,0
-East Timor,2020,,0
-Gorontalo,2007,0.601,0
-Gorontalo,2008,0.601,0
-Gorontalo,2009,0.608,0
-Gorontalo,2010,0.612,0
-Gorontalo,2011,0.615,0
-Gorontalo,2012,0.619,0
-Gorontalo,2013,0.627,0
-Gorontalo,2014,0.635,0
-Gorontalo,2015,0.647,0
-Gorontalo,2016,0.654,0
-Gorontalo,2017,0.663,1
-Gorontalo,2018,0.668,1
-Gorontalo,2019,0.675,1
-Gorontalo,2020,0.668,1
-Irian Jaya (Papua and Papua Barat),2007,0.593,0
-Irian Jaya (Papua and Papua Barat),2008,0.587,0
-Irian Jaya (Papua and Papua Barat),2009,0.588,0
-Irian Jaya (Papua and Papua Barat),2010,0.586,0
-Irian Jaya (Papua and Papua Barat),2011,0.583,0
-Irian Jaya (Papua and Papua Barat),2012,0.58,0
-Irian Jaya (Papua and Papua Barat),2013,0.593,0
-Irian Jaya (Papua and Papua Barat),2014,0.605,0
-Irian Jaya (Papua and Papua Barat),2015,0.622,0
-Irian Jaya (Papua and Papua Barat),2016,0.634,0
-Irian Jaya (Papua and Papua Barat),2017,0.647,0
-Irian Jaya (Papua and Papua Barat),2018,0.653,0
-Irian Jaya (Papua and Papua Barat),2019,0.659,1
-Irian Jaya (Papua and Papua Barat),2020,0.652,1
-Jambi,2007,0.647,0
-Jambi,2008,0.648,0
-Jambi,2009,0.657,0
-Jambi,2010,0.662,0
-Jambi,2011,0.666,0
-Jambi,2012,0.671,0
-Jambi,2013,0.676,0
-Jambi,2014,0.68,0
-Jambi,2015,0.689,1
-Jambi,2016,0.692,1
-Jambi,2017,0.698,1
-Jambi,2018,0.704,1
-Jambi,2019,0.71,1
-Jambi,2020,0.703,1
-Lampung,2007,0.622,0
-Lampung,2008,0.627,0
-Lampung,2009,0.639,0
-Lampung,2010,0.647,0
-Lampung,2011,0.656,0
-Lampung,2012,0.664,0
-Lampung,2013,0.67,0
-Lampung,2014,0.674,1
-Lampung,2015,0.684,1
-Lampung,2016,0.688,1
-Lampung,2017,0.694,1
-Lampung,2018,0.7,1
-Lampung,2019,0.706,1
-Lampung,2020,0.699,1
-Maluku,2007,0.629,0
-Maluku,2008,0.632,0
-Maluku,2009,0.642,0
-Maluku,2010,0.649,0
-Maluku,2011,0.656,0
-Maluku,2012,0.663,0
-Maluku,2013,0.668,0
-Maluku,2014,0.672,0
-Maluku,2015,0.68,0
-Maluku,2016,0.684,0
-Maluku,2017,0.689,0
-Maluku,2018,0.695,0
-Maluku,2019,0.702,0
-Maluku,2020,0.695,0
-North Sulawesi,2007,0.677,0
-North Sulawesi,2008,0.678,0
-North Sulawesi,2009,0.687,0
-North Sulawesi,2010,0.691,0
-North Sulawesi,2011,0.696,0
-North Sulawesi,2012,0.701,0
-North Sulawesi,2013,0.703,0
-North Sulawesi,2014,0.705,0
-North Sulawesi,2015,0.711,0
-North Sulawesi,2016,0.712,0
-North Sulawesi,2017,0.715,0
-North Sulawesi,2018,0.721,0
-North Sulawesi,2019,0.728,0
-North Sulawesi,2020,0.721,0
-North Sumatra,2007,0.664,0
-North Sumatra,2008,0.664,0
-North Sumatra,2009,0.672,0
-North Sumatra,2010,0.676,0
-North Sumatra,2011,0.68,0
-North Sumatra,2012,0.684,0
-North Sumatra,2013,0.689,0
-North Sumatra,2014,0.692,0
-North Sumatra,2015,0.701,1
-North Sumatra,2016,0.704,1
-North Sumatra,2017,0.71,1
-North Sumatra,2018,0.716,1
-North Sumatra,2019,0.723,1
-North Sumatra,2020,0.715,1
-Riau (incl. Riau islands),2007,0.677,0
-Riau (incl. Riau islands),2008,0.68,0
-Riau (incl. Riau islands),2009,0.69,0
-Riau (incl. Riau islands),2010,0.696,0
-Riau (incl. Riau islands),2011,0.702,0
-Riau (incl. Riau islands),2012,0.709,0
-Riau (incl. Riau islands),2013,0.71,0
-Riau (incl. Riau islands),2014,0.71,0
-Riau (incl. Riau islands),2015,0.714,0
-Riau (incl. Riau islands),2016,0.714,1
-Riau (incl. Riau islands),2017,0.716,1
-Riau (incl. Riau islands),2018,0.722,1
-Riau (incl. Riau islands),2019,0.728,1
-Riau (incl. Riau islands),2020,0.721,1
-South Kalimantan,2007,0.635,0
-South Kalimantan,2008,0.638,0
-South Kalimantan,2009,0.648,0
-South Kalimantan,2010,0.654,0
-South Kalimantan,2011,0.661,0
-South Kalimantan,2012,0.668,0
-South Kalimantan,2013,0.672,0
-South Kalimantan,2014,0.674,0
-South Kalimantan,2015,0.682,0
-South Kalimantan,2016,0.684,0
-South Kalimantan,2017,0.689,0
-South Kalimantan,2018,0.695,0
-South Kalimantan,2019,0.701,0
-South Kalimantan,2020,0.694,0
-South Sulawesi (incl Sulawesi Barat),2007,0.627,0
-South Sulawesi (incl Sulawesi Barat),2008,0.633,0
-South Sulawesi (incl Sulawesi Barat),2009,0.646,0
-South Sulawesi (incl Sulawesi Barat),2010,0.656,0
-South Sulawesi (incl Sulawesi Barat),2011,0.665,0
-South Sulawesi (incl Sulawesi Barat),2012,0.675,0
-South Sulawesi (incl Sulawesi Barat),2013,0.679,0
-South Sulawesi (incl Sulawesi Barat),2014,0.682,0
-South Sulawesi (incl Sulawesi Barat),2015,0.69,0
-South Sulawesi (incl Sulawesi Barat),2016,0.693,0
-South Sulawesi (incl Sulawesi Barat),2017,0.698,0
-South Sulawesi (incl Sulawesi Barat),2018,0.704,0
-South Sulawesi (incl Sulawesi Barat),2019,0.71,0
-South Sulawesi (incl Sulawesi Barat),2020,0.703,0
-South Sumatra,2007,0.634,0
-South Sumatra,2008,0.639,0
-South Sumatra,2009,0.651,0
-South Sumatra,2010,0.66,0
-South Sumatra,2011,0.668,0
-South Sumatra,2012,0.677,0
-South Sumatra,2013,0.68,0
-South Sumatra,2014,0.683,0
-South Sumatra,2015,0.69,1
-South Sumatra,2016,0.692,1
-South Sumatra,2017,0.696,1
-South Sumatra,2018,0.702,1
-South Sumatra,2019,0.709,1
-South Sumatra,2020,0.702,1
-Southeast Sulawesi,2007,0.638,0
-Southeast Sulawesi,2008,0.64,0
-Southeast Sulawesi,2009,0.65,0
-Southeast Sulawesi,2010,0.656,0
-Southeast Sulawesi,2011,0.661,0
-Southeast Sulawesi,2012,0.668,0
-Southeast Sulawesi,2013,0.673,1
-Southeast Sulawesi,2014,0.677,1
-Southeast Sulawesi,2015,0.686,1
-Southeast Sulawesi,2016,0.69,1
-Southeast Sulawesi,2017,0.696,1
-Southeast Sulawesi,2018,0.701,1
-Southeast Sulawesi,2019,0.708,1
-Southeast Sulawesi,2020,0.701,1
-West Java,2007,0.651,0
-West Java,2008,0.654,0
-West Java,2009,0.665,0
-West Java,2010,0.671,0
-West Java,2011,0.678,0
-West Java,2012,0.685,0
-West Java,2013,0.689,1
-West Java,2014,0.692,1
-West Java,2015,0.699,1
-West Java,2016,0.702,1
-West Java,2017,0.706,1
-West Java,2018,0.712,1
-West Java,2019,0.719,1
-West Java,2020,0.711,1
-West Kalimantan,2007,0.612,0
-West Kalimantan,2008,0.617,0
-West Kalimantan,2009,0.629,0
-West Kalimantan,2010,0.637,0
-West Kalimantan,2011,0.646,0
-West Kalimantan,2012,0.655,0
-West Kalimantan,2013,0.659,0
-West Kalimantan,2014,0.662,0
-West Kalimantan,2015,0.67,0
-West Kalimantan,2016,0.673,0
-West Kalimantan,2017,0.678,0
-West Kalimantan,2018,0.684,0
-West Kalimantan,2019,0.69,0
-West Kalimantan,2020,0.683,0
-West Nusa Tenggara,2007,0.603,0
-West Nusa Tenggara,2008,0.605,0
-West Nusa Tenggara,2009,0.614,0
-West Nusa Tenggara,2010,0.619,0
-West Nusa Tenggara,2011,0.624,0
-West Nusa Tenggara,2012,0.629,0
-West Nusa Tenggara,2013,0.641,0
-West Nusa Tenggara,2014,0.651,0
-West Nusa Tenggara,2015,0.667,0
-West Nusa Tenggara,2016,0.677,0
-West Nusa Tenggara,2017,0.689,1
-West Nusa Tenggara,2018,0.695,1
-West Nusa Tenggara,2019,0.702,1
-West Nusa Tenggara,2020,0.694,1
-West Sumatra,2007,0.643,0
-West Sumatra,2008,0.652,0
-West Sumatra,2009,0.668,0
-West Sumatra,2010,0.68,0
-West Sumatra,2011,0.692,0
-West Sumatra,2012,0.705,0
-West Sumatra,2013,0.709,0
-West Sumatra,2014,0.712,0
-West Sumatra,2015,0.72,0
-West Sumatra,2016,0.722,0
-West Sumatra,2017,0.727,0
-West Sumatra,2018,0.733,0
-West Sumatra,2019,0.74,0
-West Sumatra,2020,0.733,0
+Provinces,id,Year,HDI,GI
+Bali,1,2007,0.681,0
+Bali,1,2008,0.683,1
+Bali,1,2009,0.692,1
+Bali,1,2010,0.698,1
+Bali,1,2011,0.704,1
+Bali,1,2012,0.709,1
+Bali,1,2013,0.713,1
+Bali,1,2014,0.716,1
+Bali,1,2015,0.723,1
+Bali,1,2016,0.725,1
+Bali,1,2017,0.73,1
+Bali,1,2018,0.736,1
+Bali,1,2019,0.742,1
+Bali,1,2020,0.735,1
+Bangka Belitung,2,2007,0.656,0
+Bangka Belitung,2,2008,0.658,0
+Bangka Belitung,2,2009,0.668,0
+Bangka Belitung,2,2010,0.674,0
+Bangka Belitung,2,2011,0.68,0
+Bangka Belitung,2,2012,0.686,0
+Bangka Belitung,2,2013,0.687,0
+Bangka Belitung,2,2014,0.686,0
+Bangka Belitung,2,2015,0.691,0
+Bangka Belitung,2,2016,0.689,0
+Bangka Belitung,2,2017,0.69,0
+Bangka Belitung,2,2018,0.696,0
+Bangka Belitung,2,2019,0.702,0
+Bangka Belitung,2,2020,0.695,0
+Banten,3,2007,0.637,0
+Banten,3,2008,0.643,0
+Banten,3,2009,0.656,0
+Banten,3,2010,0.665,0
+Banten,3,2011,0.675,0
+Banten,3,2012,0.684,0
+Banten,3,2013,0.688,0
+Banten,3,2014,0.691,0
+Banten,3,2015,0.698,0
+Banten,3,2016,0.7,0
+Banten,3,2017,0.705,0
+Banten,3,2018,0.71,0
+Banten,3,2019,0.717,0
+Banten,3,2020,0.71,0
+Bengkulu,4,2007,0.635,0
+Bengkulu,4,2008,0.642,0
+Bengkulu,4,2009,0.656,0
+Bengkulu,4,2010,0.666,0
+Bengkulu,4,2011,0.676,0
+Bengkulu,4,2012,0.686,0
+Bengkulu,4,2013,0.691,0
+Bengkulu,4,2014,0.696,0
+Bengkulu,4,2015,0.705,0
+Bengkulu,4,2016,0.709,0
+Bengkulu,4,2017,0.715,0
+Bengkulu,4,2018,0.721,1
+Bengkulu,4,2019,0.728,1
+Bengkulu,4,2020,0.72,1
+Central Java,5,2007,0.638,0
+Central Java,5,2008,0.641,0
+Central Java,5,2009,0.651,0
+Central Java,5,2010,0.657,0
+Central Java,5,2011,0.663,0
+Central Java,5,2012,0.67,0
+Central Java,5,2013,0.676,0
+Central Java,5,2014,0.681,1
+Central Java,5,2015,0.692,1
+Central Java,5,2016,0.697,1
+Central Java,5,2017,0.704,1
+Central Java,5,2018,0.709,1
+Central Java,5,2019,0.716,1
+Central Java,5,2020,0.709,1
+Central Kalimantan,6,2007,0.654,0
+Central Kalimantan,6,2008,0.651,0
+Central Kalimantan,6,2009,0.656,0
+Central Kalimantan,6,2010,0.657,0
+Central Kalimantan,6,2011,0.657,0
+Central Kalimantan,6,2012,0.658,0
+Central Kalimantan,6,2013,0.663,0
+Central Kalimantan,6,2014,0.666,0
+Central Kalimantan,6,2015,0.674,0
+Central Kalimantan,6,2016,0.676,0
+Central Kalimantan,6,2017,0.681,0
+Central Kalimantan,6,2018,0.687,0
+Central Kalimantan,6,2019,0.694,0
+Central Kalimantan,6,2020,0.687,0
+Central Sulawesi,7,2007,0.62,0
+Central Sulawesi,7,2008,0.619,0
+Central Sulawesi,7,2009,0.626,0
+Central Sulawesi,7,2010,0.629,0
+Central Sulawesi,7,2011,0.631,0
+Central Sulawesi,7,2012,0.634,0
+Central Sulawesi,7,2013,0.644,0
+Central Sulawesi,7,2014,0.653,0
+Central Sulawesi,7,2015,0.666,0
+Central Sulawesi,7,2016,0.674,0
+Central Sulawesi,7,2017,0.684,0
+Central Sulawesi,7,2018,0.69,0
+Central Sulawesi,7,2019,0.697,0
+Central Sulawesi,7,2020,0.69,0
+DI Aceh,8,2007,0.658,0
+DI Aceh,8,2008,0.659,0
+DI Aceh,8,2009,0.668,0
+DI Aceh,8,2010,0.673,0
+DI Aceh,8,2011,0.678,0
+DI Aceh,8,2012,0.683,0
+DI Aceh,8,2013,0.688,0
+DI Aceh,8,2014,0.691,0
+DI Aceh,8,2015,0.7,0
+DI Aceh,8,2016,0.703,0
+DI Aceh,8,2017,0.708,0
+DI Aceh,8,2018,0.714,0
+DI Aceh,8,2019,0.721,0
+DI Aceh,8,2020,0.714,0
+DI Yogyakarta,9,2007,0.713,0
+DI Yogyakarta,9,2008,0.713,0
+DI Yogyakarta,9,2009,0.72,0
+DI Yogyakarta,9,2010,0.723,0
+DI Yogyakarta,9,2011,0.726,0
+DI Yogyakarta,9,2012,0.73,0
+DI Yogyakarta,9,2013,0.734,0
+DI Yogyakarta,9,2014,0.738,0
+DI Yogyakarta,9,2015,0.747,0
+DI Yogyakarta,9,2016,0.75,0
+DI Yogyakarta,9,2017,0.755,0
+DI Yogyakarta,9,2018,0.761,0
+DI Yogyakarta,9,2019,0.768,0
+DI Yogyakarta,9,2020,0.76,0
+DKI Jakarta,10,2007,0.74,0
+DKI Jakarta,10,2008,0.738,0
+DKI Jakarta,10,2009,0.744,0
+DKI Jakarta,10,2010,0.746,0
+DKI Jakarta,10,2011,0.748,0
+DKI Jakarta,10,2012,0.75,0
+DKI Jakarta,10,2013,0.752,0
+DKI Jakarta,10,2014,0.752,0
+DKI Jakarta,10,2015,0.756,0
+DKI Jakarta,10,2016,0.756,0
+DKI Jakarta,10,2017,0.758,0
+DKI Jakarta,10,2018,0.764,0
+DKI Jakarta,10,2019,0.771,0
+DKI Jakarta,10,2020,0.764,0
+East Java,11,2007,0.628,0
+East Java,11,2008,0.634,0
+East Java,11,2009,0.647,0
+East Java,11,2010,0.656,0
+East Java,11,2011,0.666,0
+East Java,11,2012,0.676,0
+East Java,11,2013,0.681,1
+East Java,11,2014,0.684,1
+East Java,11,2015,0.693,1
+East Java,11,2016,0.697,1
+East Java,11,2017,0.702,1
+East Java,11,2018,0.708,1
+East Java,11,2019,0.715,1
+East Java,11,2020,0.707,1
+East Kalimantan,12,2007,0.696,0
+East Kalimantan,12,2008,0.696,0
+East Kalimantan,12,2009,0.704,0
+East Kalimantan,12,2010,0.708,0
+East Kalimantan,12,2011,0.713,0
+East Kalimantan,12,2012,0.717,0
+East Kalimantan,12,2013,0.718,0
+East Kalimantan,12,2014,0.718,0
+East Kalimantan,12,2015,0.723,0
+East Kalimantan,12,2016,0.723,0
+East Kalimantan,12,2017,0.725,0
+East Kalimantan,12,2018,0.731,0
+East Kalimantan,12,2019,0.738,0
+East Kalimantan,12,2020,0.731,0
+East Nusa Tenggara,13,2007,0.578,0
+East Nusa Tenggara,13,2008,0.584,0
+East Nusa Tenggara,13,2009,0.596,0
+East Nusa Tenggara,13,2010,0.605,0
+East Nusa Tenggara,13,2011,0.614,0
+East Nusa Tenggara,13,2012,0.624,1
+East Nusa Tenggara,13,2013,0.628,1
+East Nusa Tenggara,13,2014,0.632,1
+East Nusa Tenggara,13,2015,0.64,1
+East Nusa Tenggara,13,2016,0.643,1
+East Nusa Tenggara,13,2017,0.648,1
+East Nusa Tenggara,13,2018,0.654,1
+East Nusa Tenggara,13,2019,0.66,1
+East Nusa Tenggara,13,2020,0.653,1
+East Timor,14,2007,,0
+East Timor,14,2008,,0
+East Timor,14,2009,,0
+East Timor,14,2010,,0
+East Timor,14,2011,,0
+East Timor,14,2012,,0
+East Timor,14,2013,,0
+East Timor,14,2014,,0
+East Timor,14,2015,,0
+East Timor,14,2016,,0
+East Timor,14,2017,,0
+East Timor,14,2018,,0
+East Timor,14,2019,,0
+East Timor,14,2020,,0
+Gorontalo,15,2007,0.601,0
+Gorontalo,15,2008,0.601,0
+Gorontalo,15,2009,0.608,0
+Gorontalo,15,2010,0.612,0
+Gorontalo,15,2011,0.615,0
+Gorontalo,15,2012,0.619,0
+Gorontalo,15,2013,0.627,0
+Gorontalo,15,2014,0.635,0
+Gorontalo,15,2015,0.647,0
+Gorontalo,15,2016,0.654,0
+Gorontalo,15,2017,0.663,1
+Gorontalo,15,2018,0.668,1
+Gorontalo,15,2019,0.675,1
+Gorontalo,15,2020,0.668,1
+Irian Jaya (Papua and Papua Barat),16,2007,0.593,0
+Irian Jaya (Papua and Papua Barat),16,2008,0.587,0
+Irian Jaya (Papua and Papua Barat),16,2009,0.588,0
+Irian Jaya (Papua and Papua Barat),16,2010,0.586,0
+Irian Jaya (Papua and Papua Barat),16,2011,0.583,0
+Irian Jaya (Papua and Papua Barat),16,2012,0.58,0
+Irian Jaya (Papua and Papua Barat),16,2013,0.593,0
+Irian Jaya (Papua and Papua Barat),16,2014,0.605,0
+Irian Jaya (Papua and Papua Barat),16,2015,0.622,0
+Irian Jaya (Papua and Papua Barat),16,2016,0.634,0
+Irian Jaya (Papua and Papua Barat),16,2017,0.647,0
+Irian Jaya (Papua and Papua Barat),16,2018,0.653,0
+Irian Jaya (Papua and Papua Barat),16,2019,0.659,1
+Irian Jaya (Papua and Papua Barat),16,2020,0.652,1
+Jambi,17,2007,0.647,0
+Jambi,17,2008,0.648,0
+Jambi,17,2009,0.657,0
+Jambi,17,2010,0.662,0
+Jambi,17,2011,0.666,0
+Jambi,17,2012,0.671,0
+Jambi,17,2013,0.676,0
+Jambi,17,2014,0.68,0
+Jambi,17,2015,0.689,1
+Jambi,17,2016,0.692,1
+Jambi,17,2017,0.698,1
+Jambi,17,2018,0.704,1
+Jambi,17,2019,0.71,1
+Jambi,17,2020,0.703,1
+Lampung,18,2007,0.622,0
+Lampung,18,2008,0.627,0
+Lampung,18,2009,0.639,0
+Lampung,18,2010,0.647,0
+Lampung,18,2011,0.656,0
+Lampung,18,2012,0.664,0
+Lampung,18,2013,0.67,0
+Lampung,18,2014,0.674,1
+Lampung,18,2015,0.684,1
+Lampung,18,2016,0.688,1
+Lampung,18,2017,0.694,1
+Lampung,18,2018,0.7,1
+Lampung,18,2019,0.706,1
+Lampung,18,2020,0.699,1
+Maluku,19,2007,0.629,0
+Maluku,19,2008,0.632,0
+Maluku,19,2009,0.642,0
+Maluku,19,2010,0.649,0
+Maluku,19,2011,0.656,0
+Maluku,19,2012,0.663,0
+Maluku,19,2013,0.668,0
+Maluku,19,2014,0.672,0
+Maluku,19,2015,0.68,0
+Maluku,19,2016,0.684,0
+Maluku,19,2017,0.689,0
+Maluku,19,2018,0.695,0
+Maluku,19,2019,0.702,0
+Maluku,19,2020,0.695,0
+North Sulawesi,20,2007,0.677,0
+North Sulawesi,20,2008,0.678,0
+North Sulawesi,20,2009,0.687,0
+North Sulawesi,20,2010,0.691,0
+North Sulawesi,20,2011,0.696,0
+North Sulawesi,20,2012,0.701,0
+North Sulawesi,20,2013,0.703,0
+North Sulawesi,20,2014,0.705,0
+North Sulawesi,20,2015,0.711,0
+North Sulawesi,20,2016,0.712,0
+North Sulawesi,20,2017,0.715,0
+North Sulawesi,20,2018,0.721,0
+North Sulawesi,20,2019,0.728,0
+North Sulawesi,20,2020,0.721,0
+North Sumatra,21,2007,0.664,0
+North Sumatra,21,2008,0.664,0
+North Sumatra,21,2009,0.672,0
+North Sumatra,21,2010,0.676,0
+North Sumatra,21,2011,0.68,0
+North Sumatra,21,2012,0.684,0
+North Sumatra,21,2013,0.689,0
+North Sumatra,21,2014,0.692,0
+North Sumatra,21,2015,0.701,1
+North Sumatra,21,2016,0.704,1
+North Sumatra,21,2017,0.71,1
+North Sumatra,21,2018,0.716,1
+North Sumatra,21,2019,0.723,1
+North Sumatra,21,2020,0.715,1
+Riau (incl. Riau islands),22,2007,0.677,0
+Riau (incl. Riau islands),22,2008,0.68,0
+Riau (incl. Riau islands),22,2009,0.69,0
+Riau (incl. Riau islands),22,2010,0.696,0
+Riau (incl. Riau islands),22,2011,0.702,0
+Riau (incl. Riau islands),22,2012,0.709,0
+Riau (incl. Riau islands),22,2013,0.71,0
+Riau (incl. Riau islands),22,2014,0.71,0
+Riau (incl. Riau islands),22,2015,0.714,0
+Riau (incl. Riau islands),22,2016,0.714,1
+Riau (incl. Riau islands),22,2017,0.716,1
+Riau (incl. Riau islands),22,2018,0.722,1
+Riau (incl. Riau islands),22,2019,0.728,1
+Riau (incl. Riau islands),22,2020,0.721,1
+South Kalimantan,23,2007,0.635,0
+South Kalimantan,23,2008,0.638,0
+South Kalimantan,23,2009,0.648,0
+South Kalimantan,23,2010,0.654,0
+South Kalimantan,23,2011,0.661,0
+South Kalimantan,23,2012,0.668,0
+South Kalimantan,23,2013,0.672,0
+South Kalimantan,23,2014,0.674,0
+South Kalimantan,23,2015,0.682,0
+South Kalimantan,23,2016,0.684,0
+South Kalimantan,23,2017,0.689,0
+South Kalimantan,23,2018,0.695,0
+South Kalimantan,23,2019,0.701,0
+South Kalimantan,23,2020,0.694,0
+South Sulawesi (incl Sulawesi Barat),24,2007,0.627,0
+South Sulawesi (incl Sulawesi Barat),24,2008,0.633,0
+South Sulawesi (incl Sulawesi Barat),24,2009,0.646,0
+South Sulawesi (incl Sulawesi Barat),24,2010,0.656,0
+South Sulawesi (incl Sulawesi Barat),24,2011,0.665,0
+South Sulawesi (incl Sulawesi Barat),24,2012,0.675,0
+South Sulawesi (incl Sulawesi Barat),24,2013,0.679,0
+South Sulawesi (incl Sulawesi Barat),24,2014,0.682,0
+South Sulawesi (incl Sulawesi Barat),24,2015,0.69,0
+South Sulawesi (incl Sulawesi Barat),24,2016,0.693,0
+South Sulawesi (incl Sulawesi Barat),24,2017,0.698,0
+South Sulawesi (incl Sulawesi Barat),24,2018,0.704,0
+South Sulawesi (incl Sulawesi Barat),24,2019,0.71,0
+South Sulawesi (incl Sulawesi Barat),24,2020,0.703,0
+South Sumatra,25,2007,0.634,0
+South Sumatra,25,2008,0.639,0
+South Sumatra,25,2009,0.651,0
+South Sumatra,25,2010,0.66,0
+South Sumatra,25,2011,0.668,0
+South Sumatra,25,2012,0.677,0
+South Sumatra,25,2013,0.68,0
+South Sumatra,25,2014,0.683,0
+South Sumatra,25,2015,0.69,1
+South Sumatra,25,2016,0.692,1
+South Sumatra,25,2017,0.696,1
+South Sumatra,25,2018,0.702,1
+South Sumatra,25,2019,0.709,1
+South Sumatra,25,2020,0.702,1
+Southeast Sulawesi,26,2007,0.638,0
+Southeast Sulawesi,26,2008,0.64,0
+Southeast Sulawesi,26,2009,0.65,0
+Southeast Sulawesi,26,2010,0.656,0
+Southeast Sulawesi,26,2011,0.661,0
+Southeast Sulawesi,26,2012,0.668,0
+Southeast Sulawesi,26,2013,0.673,1
+Southeast Sulawesi,26,2014,0.677,1
+Southeast Sulawesi,26,2015,0.686,1
+Southeast Sulawesi,26,2016,0.69,1
+Southeast Sulawesi,26,2017,0.696,1
+Southeast Sulawesi,26,2018,0.701,1
+Southeast Sulawesi,26,2019,0.708,1
+Southeast Sulawesi,26,2020,0.701,1
+West Java,27,2007,0.651,0
+West Java,27,2008,0.654,0
+West Java,27,2009,0.665,0
+West Java,27,2010,0.671,0
+West Java,27,2011,0.678,0
+West Java,27,2012,0.685,0
+West Java,27,2013,0.689,1
+West Java,27,2014,0.692,1
+West Java,27,2015,0.699,1
+West Java,27,2016,0.702,1
+West Java,27,2017,0.706,1
+West Java,27,2018,0.712,1
+West Java,27,2019,0.719,1
+West Java,27,2020,0.711,1
+West Kalimantan,28,2007,0.612,0
+West Kalimantan,28,2008,0.617,0
+West Kalimantan,28,2009,0.629,0
+West Kalimantan,28,2010,0.637,0
+West Kalimantan,28,2011,0.646,0
+West Kalimantan,28,2012,0.655,0
+West Kalimantan,28,2013,0.659,0
+West Kalimantan,28,2014,0.662,0
+West Kalimantan,28,2015,0.67,0
+West Kalimantan,28,2016,0.673,0
+West Kalimantan,28,2017,0.678,0
+West Kalimantan,28,2018,0.684,0
+West Kalimantan,28,2019,0.69,0
+West Kalimantan,28,2020,0.683,0
+West Nusa Tenggara,29,2007,0.603,0
+West Nusa Tenggara,29,2008,0.605,0
+West Nusa Tenggara,29,2009,0.614,0
+West Nusa Tenggara,29,2010,0.619,0
+West Nusa Tenggara,29,2011,0.624,0
+West Nusa Tenggara,29,2012,0.629,0
+West Nusa Tenggara,29,2013,0.641,0
+West Nusa Tenggara,29,2014,0.651,0
+West Nusa Tenggara,29,2015,0.667,0
+West Nusa Tenggara,29,2016,0.677,0
+West Nusa Tenggara,29,2017,0.689,1
+West Nusa Tenggara,29,2018,0.695,1
+West Nusa Tenggara,29,2019,0.702,1
+West Nusa Tenggara,29,2020,0.694,1
+West Sumatra,30,2007,0.643,0
+West Sumatra,30,2008,0.652,0
+West Sumatra,30,2009,0.668,0
+West Sumatra,30,2010,0.68,0
+West Sumatra,30,2011,0.692,0
+West Sumatra,30,2012,0.705,0
+West Sumatra,30,2013,0.709,0
+West Sumatra,30,2014,0.712,0
+West Sumatra,30,2015,0.72,0
+West Sumatra,30,2016,0.722,0
+West Sumatra,30,2017,0.727,0
+West Sumatra,30,2018,0.733,0
+West Sumatra,30,2019,0.74,0
+West Sumatra,30,2020,0.733,0
